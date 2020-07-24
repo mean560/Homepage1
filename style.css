@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 120%;
+    background: #d9f4ff
+
+}
+
+.header {
+    width: 90%;
+    margin-bottom: 0px;
+    color: black;
+    background: white;
+    
+}
+
+/* form, .content {  
+width: 35%;
+margin:60px auto 0px;
+padding: 20px;
+border: 20px solid #e7f8ff;
+background: white;
+border-radius: 0px 0px 0px 0px;
+
+} */
+.input-group .btn {
+    padding: 10px 25px;
+    font-size: 15px; 
+
+    color: white;
+    background:#007398;
+    border: none;
+    border-radius: 0px;
+    
+  margin: 0 auto;
+  display: block;
+}
+
+.error{
+    font-size: 15px;
+    color: red;
+    text-align: center;
+}
+
+.success{
+    color: #3c763d;
+    background: #dff9d8;
+    border: 1px solid #3c763d;
+    margin-bottom: 20px;
+}
+
+.wrapper-login {
+    background-color: #d9f4ff;
+    min-height: 100vh;
+    position: relative;
+    /* padding-top: 20vh; */
+
+}
+
+.wrapper-login .my-custom-style {
+    width: 450px;
+    margin: 0 auto;
+    background-color: #e7f8ff;
+    padding: 20px;
+    margin-top: 15vh;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.wrapper-login .my-custom-style form#form-login {
+    background-color: #ffff;
+    padding: 10px 20px;
+}
+
+

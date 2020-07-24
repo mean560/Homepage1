@@ -1,0 +1,47 @@
+.header{
+ 
+    background-color:white;
+     padding-bottom: 0px;
+     border-bottom: 0px solid pink; 
+}
+h1 {font-size: 80px;}
+.w3-bar .w3-button{
+margin:15px 15px 15px 15px;
+  
+}
+.middle {
+    overflow: auto;
+}
+.middle aside.left {
+    background-color: white;
+    width: 10%;
+    height: 80%;
+    float: left;
+    text-align: center;
+
+
+}
+.middle aside.right {
+    background-color:white;
+    width: 30%;
+    height: 80%;
+    float: left;
+    text-align: center;
+
+}
+.middle .content {
+    background-color:white;
+    width: 60%;
+    height: 80%;
+    float: left;
+    text-align: left;
+}
+.footer{
+    background-color: white;
+    text-align: center;
+   
+}
+.w3-container .w3-button .w3-xlarge .w3-circle .w3-teal{
+    text-align: left;
+}
+
