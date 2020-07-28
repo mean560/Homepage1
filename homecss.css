@@ -1,9 +1,11 @@
+
 .header{
  
     background-color:white;
      padding-bottom: 0px;
-     border-bottom: 0px solid pink; 
+    
 }
+
 h1 {font-size: 80px;}
 .w3-bar .w3-button{
 margin:15px 15px 15px 15px;
@@ -29,19 +31,66 @@ margin:15px 15px 15px 15px;
     text-align: center;
 
 }
-.middle .content {
-    background-color:white;
-    width: 60%;
-    height: 80%;
-    float: left;
-    text-align: left;
+.middle .content a.my-link{
+    display:block;
+    margin-bottom: 15px;
 }
-.footer{
-    background-color: white;
-    text-align: center;
+.middle .content a.my-link::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+.middle .content a.my-link  span.my-image-text{
+    color: #555;
+    font-size: 1.2em;
+    padding-top: 30px;
+    margin-left: 15px;
+    font-weight: 700;
+    display: block;
    
 }
-.w3-container .w3-button .w3-xlarge .w3-circle .w3-teal{
-    text-align: left;
+.middle .content a.my-link  span.my-image-text::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+.middle .content a.my-link span.my-image-icon{
+    height: 100px;
+    width: 100px;
+    background-color: #92c8ed;
+    display: block;
+    position: relative;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
 }
+.middle .content a.my-link span.my-image-icon.search{
+    background-color: #fdd187;
+}
+.middle .content a.my-link span.my-image-icon.bibliography{
+    background-color: #99d9b6;
+}
+.middle .content a.my-link span.my-image-icon.note{
+    background-color: #eb8b92;
+}
+.middle .content a.my-link span.my-image-icon i{
+   position: absolute;
+   top: 24%;
+   left: 30%;
+   right: 50%;
+   bottom: 50%;
+   font-size: 3em;
+   color:#555;
 
+}
+.middle .content a.my-link span.my-image-icon i.far.fa-file-alt{
+    left: 35%;
+   
+ 
+ }
+
+.footer{
+    background-color:white;
+    text-align: center;
+  
+}
