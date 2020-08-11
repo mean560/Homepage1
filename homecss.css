@@ -1,19 +1,24 @@
+.header {
 
-.header{
- 
-    background-color:white;
-     padding-bottom: 0px;
-    
+    background-color: white;
+    padding-bottom: 0px;
+
 }
 
-h1 {font-size: 80px;}
-.w3-bar .w3-button{
-margin:15px 15px 15px 15px;
-  
+h1 {
+    font-size: 80px;
+    padding-bottom: 30px;
 }
+
+.w3-bar .w3-button {
+    margin: 15px 15px 15px 15px;
+
+}
+
 .middle {
     overflow: auto;
 }
+
 .middle aside.left {
     background-color: white;
     width: 10%;
@@ -23,74 +28,152 @@ margin:15px 15px 15px 15px;
 
 
 }
+
 .middle aside.right {
-    background-color:white;
+    background-color: white;
     width: 30%;
     height: 80%;
     float: left;
-    text-align: center;
+
 
 }
-.middle .content a.my-link{
-    display:block;
-    margin-bottom: 15px;
+
+.middle .content a.my-link {
+    display: block;
+    margin-bottom: 40px;
+
 }
+
 .middle .content a.my-link::after {
     content: "";
     clear: both;
     display: table;
-    }
-.middle .content a.my-link  span.my-image-text{
+}
+
+.middle .content a.my-link span.my-image-text {
     color: #555;
     font-size: 1.2em;
-    padding-top: 30px;
+    padding-top: 40px;
     margin-left: 15px;
     font-weight: 700;
     display: block;
-   
+
 }
-.middle .content a.my-link  span.my-image-text::after {
+
+.middle .content a.my-link span.my-image-text::after {
     content: "";
     clear: both;
     display: table;
-    }
-.middle .content a.my-link span.my-image-icon{
-    height: 100px;
-    width: 100px;
+}
+
+.middle .content a.my-link span.my-image-icon {
     background-color: #92c8ed;
+    height: 110px;
+    width: 110px;
     display: block;
     position: relative;
     border-radius: 50%;
     float: left;
     margin-right: 10px;
+
 }
-.middle .content a.my-link span.my-image-icon.search{
+
+.middle .content a.my-link span.my-image-icon.search {
     background-color: #fdd187;
+
+
 }
-.middle .content a.my-link span.my-image-icon.bibliography{
+
+.middle .content a.my-link span.my-image-icon.bibliography {
     background-color: #99d9b6;
 }
-.middle .content a.my-link span.my-image-icon.note{
+
+.middle .content a.my-link span.my-image-icon.note {
     background-color: #eb8b92;
 }
-.middle .content a.my-link span.my-image-icon i{
-   position: absolute;
-   top: 24%;
-   left: 30%;
-   right: 50%;
-   bottom: 50%;
-   font-size: 3em;
-   color:#555;
+
+.middle .content a.my-link span.my-image-icon i {
+    position: absolute;
+    top: 24%;
+    left: 26%;
+    right: 50%;
+    bottom: 50%;
+    font-size: 4em;
+    color: #555;
 
 }
-.middle .content a.my-link span.my-image-icon i.far.fa-file-alt{
-    left: 35%;
-   
- 
- }
 
-.footer{
-    background-color:white;
+.middle .content a.my-link span.my-image-icon i.far.fa-file-alt {
+    left: 28%;
+
+}
+
+.footer {
+    background-color: white;
     text-align: center;
-  
+
+}
+
+/* เพิ่ม */
+.row .col-6 {
+
+    padding: 0px;
+}
+
+/* a.my-link span.my-image-icon.search  {
+    left: 10%;
+    margin-right: 80px;
+
+}
+a.my-link span.my-image-icon.note  {
+    left: 10%;
+} */
+
+.content {
+    position: relative;
+    left: 50px;
+}
+
+.wrapper .header .user span.my-image-icon {
+    background-color: #caccce;
+    height: 55px;
+    width: 55px;
+    display: block;
+    position: relative;
+    border-radius: 50%;
+    float: right;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+.wrapper .header .user span.my-image-icon.user i.fas.fa-user {
+    position: absolute;
+    top: 28%;
+    left: 30%;
+    right: 30%;
+    bottom: 50%;
+    font-size: 1.5em;
+    color: #555;
+}
+
+.wrapper .header .user span.text-username {
+    color: #555;
+    font-size: 1em;
+    padding-top: 30px;
+    margin-right: 15px;
+    font-weight: 500;
+    display: block;
+    float: right;
+
+}
+
+.wrapper .header .user .w3-dropdown-content.w3-bar-block.w3-border {
+    top: 8%;
+    left: 90%;
+
+}
+
+.wrapper .header .user .w3-dropdown-content.w3-bar-block.w3-border .w3-button {
+    padding: 0px;
+    margin: 10px
 }

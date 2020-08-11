@@ -1,48 +1,71 @@
-.input-group-btn .btn{
+.input-group-btn .btn {
     height: 40px;
     padding: 6px 20px;
     line-height: 1.42857143;
     color: #555;
     background-color: #ccc;
     background-image: none;
-    border: 1px  solid #ccc;
-    
-    -webkit-box-shadow: inset 0 0px 0px rgba(0,0,0,.075);
-    box-shadow: inset 0 0px 0px rgba(0,0,0,.075);
+    border: 1px solid #ccc;
+
+    -webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075);
 }
+
 .input-group .form-control {
     position: relative;
     float: left;
     width: 100%;
     margin-bottom: 0;
-    height:40px 
-   
+    height: 40px
 }
-.input-group{
-    padding: 10px 10px  ;
-    background-color:#ccc;
+
+.input-group {
+    padding: 10px 10px;
+    background-color: #ccc;
     margin: 10px 100px;
     border-radius: 5px 5px 5px 5px;
 }
 
-.header{
-    padding: 50px  180px 20px ;
+.header {
+    padding: 30px 150px 1px;
 }
+
 .w3-padding.w3-xxxlarge {
-    padding: 25px 16px!important;
+    padding: 25px 16px !important;
 }
-.middle{
-    padding: 5px 50px;
-    width: 16%;
-    
-    
+
+.middle {
+    overflow: auto;
 }
-.left{
-  /*  text-align:center;*/
-    color:333333;
-    padding: 0px 30px;
+
+.middle aside.left {
+    background-color: white;
+    width: 15%;
+    height: 500px;
+    float: left;
+    text-align: left;
+    padding-left: 20px;
 }
-.radio,.checkbox {
-    color:656262;
+
+.middle aside.left span.my-text {
+    padding-left: 40px;
+
+}
+
+
+.middle .content {
+    background-color: rgb(152, 215, 218);
+    width: 70%;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+
+.middle aside.right {
+    background-color: white;
+    width: 15%;
+    height: 500px;
+    float: left;
+    text-align: center;
 
 }

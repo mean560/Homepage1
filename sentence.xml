@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <result name="response" numFound="394321" start="0">
+    <doc>
+      <str name="id">EJ016238</str>
+      <str name="title">Multivariate Analysis</str>
+      <arr name="author">
+        <str>Tatsuoka, Maurice M.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Variance</str>
+        <str>Discriminant Analysis</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1969</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">F</str>
+    </doc>
+    <doc>
+      <str name="id">EJ039739</str>
+      <str name="title">A Covariance Analysis of Multiple Paired Comparisons</str>
+      <arr name="author">
+        <str>Bechtel, Gordon G.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Covariance</str>
+        <str>Comparative Analysis</str>
+        <str>Data Analysis</str>
+        <str>Hypothesis Testing</str>
+        <str>Interaction</str>
+        <str>Models</str>
+        <str>Statistical Analysis</str>
+        <str>Statistical Bias</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1971</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ044847</str>
+      <str name="title">A Comparative Study of Some Selected Methods of Pattern Analysis</str>
+      <arr name="author">
+        <str>McQuitty, Louis L.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Classification</str>
+        <str>Cluster Analysis</str>
+        <str>Comparative Analysis</str>
+        <str>Data Analysis</str>
+        <str>Measurement Techniques</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1971</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ041261</str>
+      <str name="title">Relaxed Rank Order Typal Analysis</str>
+      <arr name="author">
+        <str>McQuitty, Louis L.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Classification</str>
+        <str>Cluster Analysis</str>
+        <str>Criteria</str>
+        <str>Data Analysis</str>
+        <str>Factor Analysis</str>
+        <str>Research Methodology</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1971</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ108401</str>
+      <str name="title">A Comparison of the Stability of Factor Analysis Principal Component Analysis and Rescaled Image Analysis</str>
+      <arr name="author">
+        <str>Velicer, Wayne F.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Comparative Analysis</str>
+        <str>Factor Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1974</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ043047</str>
+      <str name="title">Comparison of Ranks of Cross-Product and Covariance Solutions in Component Analysis</str>
+      <arr name="author">
+        <str>Corballis, M. C.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Covariance</str>
+        <str>Componential Analysis</str>
+        <str>Data Analysis</str>
+        <str>Factor Analysis</str>
+        <str>Individual Differences</str>
+        <str>Research Methodology</str>
+        <str>Statistical Analysis</str>
+        <str>Statistics</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1971</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ118361</str>
+      <str name="title">The Relation Between Rao's Paradox in Discriminant Analysis and Regression Analysis</str>
+      <arr name="author">
+        <str>Cramer, Elliot M.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Covariance</str>
+        <str>Comparative Analysis</str>
+        <str>Discriminant Analysis</str>
+        <str>Hypothesis Testing</str>
+        <str>Multiple Regression Analysis</str>
+        <str>Statistical Significance</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1975</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ056056</str>
+      <str name="title">Classics and Content Analysis</str>
+      <arr name="author">
+        <str>Carney, T. F.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Classical Literature</str>
+        <str>Content Analysis</str>
+        <str>Critical Reading</str>
+        <str>Data Analysis</str>
+        <str>Diagrams</str>
+        <str>Literary Criticism</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1971</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">F</str>
+    </doc>
+    <doc>
+      <str name="id">EJ048737</str>
+      <str name="title">Measurement as Structural Theory</str>
+      <arr name="author">
+        <str>Guttman, Louis</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Definitions</str>
+        <str>Item Analysis</str>
+        <str>Measurement</str>
+        <str>Multiple Regression Analysis</str>
+        <str>Probability</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1971</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ026034</str>
+      <str name="title">Generalized Analysis of Variance</str>
+      <arr name="author">
+        <str>Fitzpatrick, Eugene D.</str>
+        <str>Leicht, Kenneth L.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Variance</str>
+        <str>Computer Programs</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1970</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">F</str>
+    </doc>
+    <doc>
+      <str name="id">EJ041268</str>
+      <str name="title">A Fortran Program for the Analysis of Linear Composite Variance</str>
+      <arr name="author">
+        <str>Creager, John A.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Variance</str>
+        <str>Computer Programs</str>
+        <str>Factor Analysis</str>
+        <str>Research Methodology</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1971</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ099797</str>
+      <str name="title">Distinguishing Among Systems Analysis; System Analysis, and Problem Analysis</str>
+      <arr name="author">
+        <str>Read, Edwin A.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Educational Technology</str>
+        <str>Instructional Design</str>
+        <str>Instructional Systems</str>
+        <str>Program Development</str>
+        <str>Systems Analysis</str>
+        <str>Systems Approach</str>
+        <str>Systems Development</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1974</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">F</str>
+    </doc>
+    <doc>
+      <str name="id">EJ080117</str>
+      <str name="title">The Use of Orthogonal Polynomials for Trend Analysis</str>
+      <arr name="author">
+        <str>Hubert, Lawrence J.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Variance</str>
+        <str>Mathematical Models</str>
+        <str>Orthogonal Rotation</str>
+        <str>Statistical Analysis</str>
+        <str>Trend Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1973</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ189596</str>
+      <str name="title">Analysis of Repeated Measures Data: A Simulation Study</str>
+      <arr name="author">
+        <str>Scheifley, Verda M.</str>
+        <str>Schmidt, William H.</str>
+      </arr>
+      <str name="description">Three statistical analysis procedures for analysis of repeated measures data are examined. The procedures are classical mixed model analysis of variance, multivariate analysis of repeated measures, and the analysis of covariance structures. (Author/JKS)</str>
+      <arr name="subject">
+        <str>Analysis of Covariance</str>
+        <str>Analysis of Variance</str>
+        <str>Hypothesis Testing</str>
+        <str>Statistical Analysis</str>
+        <str>Statistical Bias</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1978</int>
+      <arr name="language">
+        <str>English</str>
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ464284</str>
+      <str name="title">Streamlining Instructional Design: An Expedient Learning Analysis.</str>
+      <arr name="author">
+        <str>Toney, Michael R.</str>
+        <str>White, Margaret C.</str>
+      </arr>
+      <str name="description">Discusses instructional design; examines various analyses which should be made as part of instructional development, including needs analysis, front-end analysis, job analysis, task analysis, training analysis, and learning analysis; and describes steps in a learning analysis that is less labor-intensive and time-consuming. A learning analysis checklist is included. (LRW)</str>
+      <arr name="subject">
+        <str>Check Lists</str>
+        <str>Cost Effectiveness</str>
+        <str>Instructional Design</str>
+        <str>Instructional Development</str>
+        <str>Job Analysis</str>
+        <str>Needs Assessment</str>
+        <str>Task Analysis</str>
+        <str>Worksheets</str>
+      </arr>
+      <arr name="publicationtype">
+        <str>Guides - Non-Classroom</str>
+        <str>Reports - Descriptive</str>
+        <str>Journal Articles</str>
+      </arr>
+      <int name="publicationdateyear">1993</int>
+      <arr name="language">
+        <str>English</str>
+      </arr>
+      <arr name="issn">
+        <str>ISSN-0884-1985</str>
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">F</str>
+    </doc>
+    <doc>
+      <str name="id">EJ282215</str>
+      <str name="title">Performing Factorial Multivariate Analysis of Variance Using Canonical Correlation Analysis.</str>
+      <arr name="author">
+        <str>Zinkgrof, Stephen A.</str>
+      </arr>
+      <str name="description">The equivalence of one-way multivariate analysis of variance and canonical correlation is well known. The usefulness of canonical correlation analysis is performing factorial multivariate analysis of variance is demonstrated. (Author)</str>
+      <arr name="subject">
+        <str>Analysis of Variance</str>
+        <str>Correlation</str>
+        <str>Data Analysis</str>
+        <str>Multivariate Analysis</str>
+        <str>Research Methodology</str>
+      </arr>
+      <arr name="publicationtype">
+        <str>Journal Articles</str>
+        <str>Reports - Research</str>
+      </arr>
+      <int name="publicationdateyear">1983</int>
+      <arr name="language">
+        <str>English</str>
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ189689</str>
+      <str name="title">A Closer Look at Statistical Independence, Analysis of Covariance and Directional Hypotheses</str>
+      <arr name="author">
+        <str>Huitema, Bradley E.</str>
+      </arr>
+      <str name="description">Issues in analysis of covariance, multiple regression analysis, and the analysis of variance such as the assumption of independence and directional hypotheses are discussed. (JKS)</str>
+      <arr name="subject">
+        <str>Analysis of Covariance</str>
+        <str>Analysis of Variance</str>
+        <str>Data Analysis</str>
+        <str>Multiple Regression Analysis</str>
+        <str>Research Design</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1978</int>
+      <arr name="language">
+        <str>English</str>
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ041227</str>
+      <str name="title">Analysis of Variance and Latin Square Problems by Multiple Regression Analysis</str>
+      <arr name="author">
+        <str>Collet, Leverne S.</str>
+        <str>Maxey, James H.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Variance</str>
+        <str>Multiple Regression Analysis</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1971</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ190909</str>
+      <str name="title">Canonical Correlation/Factor Analysis: Similarities and Differences.</str>
+      <arr name="author">
+        <str>Wimmer, Roger</str>
+      </arr>
+      <str name="description">Briefly discusses the similarities and differences between canonical correlation (RC) and principal components (PC) factor analysis. (Author/JEG)</str>
+      <arr name="subject">
+        <str>Comparative Analysis</str>
+        <str>Correlation</str>
+        <str>Factor Analysis</str>
+        <str>Research Methodology</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1977</int>
+      <arr name="language">
+        <str>English</str>
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+    <doc>
+      <str name="id">EJ098701</str>
+      <str name="title">An Empirical Comparison of the Accuracy of Selected Multivariate Classification Rules</str>
+      <arr name="author">
+        <str>Huberty, Carl J.</str>
+        <str>Blommers, Paul J.</str>
+      </arr>
+      <str name="description" />
+      <arr name="subject">
+        <str>Analysis of Covariance</str>
+        <str>Analysis of Variance</str>
+        <str>Classification</str>
+        <str>Discriminant Analysis</str>
+        <str>Hypothesis Testing</str>
+        <str>Multiple Regression Analysis</str>
+        <str>Predictor Variables</str>
+        <str>Probability</str>
+        <str>Sampling</str>
+        <str>Statistical Analysis</str>
+      </arr>
+      <arr name="publicationtype">
+        <str />
+      </arr>
+      <int name="publicationdateyear">1974</int>
+      <arr name="language">
+        <str />
+      </arr>
+      <arr name="issn">
+        <str />
+      </arr>
+      <str name="publisher" />
+      <arr name="isbn">
+        <str />
+      </arr>
+      <str name="peerreviewed">T</str>
+    </doc>
+  </result>
+</response>

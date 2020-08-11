@@ -1,0 +1,98 @@
+.middle aside.left {
+    background: white;
+    width: 60%;
+    height: 100%;
+    float: left;
+    text-align: center;
+
+
+}
+
+.col-xs-12.well {
+    color: #555;
+    background: white;
+    border-color: white;
+    margin-bottom: 0em;
+
+}
+
+.form-file {
+    float: left;
+    margin-top: 15px;
+}
+
+.form-upload i.fas.fa-file-upload {
+    margin-right: 10px;
+}
+
+
+
+.col-xs-12.well .btn {
+
+    font-size: 14px;
+    color: white;
+    background: #5bc0de;
+    border: none;
+    border-radius: 2px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    float: left;
+    text-align: left;
+
+}
+
+.middle aside.right {
+    background-color: white;
+    width: 40%;
+    float: left;
+    position: relative;
+}
+
+span.my-image-text i.fas.fa-angle-left {
+    margin-left: 10px;
+}
+
+
+
+.middle aside.right .w3-padding {
+    color: #555;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 32px;
+
+}
+
+
+.input-group .btn {
+    padding: 8px 15px;
+    font-size: 14px;
+    color: white;
+    background: #5bc0de;
+    border: none;
+    border-radius: 2px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 20px;
+
+
+}
+
+.middle aside.right .input-note {
+    margin: 10px;
+}
+
+.input-note .w3-input {
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.input-note .form-control {
+    padding: 15px;
+    font-size: 16px;
+    margin-top: 10px;
+
+}

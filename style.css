@@ -6,7 +6,6 @@
 body {
     font-size: 120%;
     background: #d9f4ff
-
 }
 
 .header {
@@ -14,7 +13,7 @@ body {
     margin-bottom: 0px;
     color: black;
     background: white;
-    
+
 }
 
 /* form, .content {  
@@ -28,24 +27,22 @@ border-radius: 0px 0px 0px 0px;
 } */
 .input-group .btn {
     padding: 10px 25px;
-    font-size: 15px; 
-
+    font-size: 15px;
     color: white;
-    background:#007398;
+    background: #007398;
     border: none;
     border-radius: 0px;
-    
-  margin: 0 auto;
-  display: block;
+    margin: 0 auto;
+    display: block;
 }
 
-.error{
+.error {
     font-size: 15px;
     color: red;
     text-align: center;
 }
 
-.success{
+.success {
     color: #3c763d;
     background: #dff9d8;
     border: 1px solid #3c763d;
@@ -75,5 +72,3 @@ border-radius: 0px 0px 0px 0px;
     background-color: #ffff;
     padding: 10px 20px;
 }
-
-

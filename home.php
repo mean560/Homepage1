@@ -28,7 +28,6 @@
             </div>
         </div> <!--  header -->
         <div class="middle">
-
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -55,7 +54,7 @@
                                     </a>
                                 </div>
                                 <div class="col-6">
-                                    <a href="#" class="my-link">
+                                    <a href="searchpage.php" class="my-link">
                                         <span class="my-image-icon search">
                                             <i class="far fa-file-alt"></i>
                                         </span>
@@ -75,7 +74,7 @@
                                     </a>
                                 </div>
                                 <div class="col-6">
-                                    <a href="#" class="my-link">
+                                    <a href="note.php" class="my-link">
                                         <span class="my-image-icon note">
                                             <i class="far fa-edit"></i>
                                         </span>
@@ -90,7 +89,7 @@
                     </div>
                     <div class="col-12 col-md-4">
                         <div class="image-right">
-                            <img src="5.jpg" vspace="80" style="width:100%">
+                            <img src="bg.png" hspace="30" style="width:140%;">
                         </div>
                     </div>
                 </div>
@@ -101,4 +100,5 @@
 
     </div>
 </body>
+
 </html>
