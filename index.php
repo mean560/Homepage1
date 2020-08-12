@@ -104,7 +104,7 @@ if (isset($_GET['logout'])) {
 								</a>
 							</div>
 							<div class="col-6">
-								<a href="note.php" class="my-link">
+								<a href="allnote.php" class="my-link">
 									<span class="my-image-icon note">
 										<i class="far fa-edit"></i>
 									</span>

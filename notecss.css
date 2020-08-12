@@ -43,6 +43,27 @@
 
 }
 
+.w3-ul .btn.btn-info {
+    background: #38b87c;
+    border: 1.5px solid #38b87c;
+    padding: 6px 18px 6px 18px;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 27em;
+
+
+}
+
+.w3-ul .btn.btn-danger {
+    background: #f34541;
+    border: 1.5px solid #f34541;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 3px;
+
+
+}
+
 .middle aside.right {
     background-color: white;
     width: 40%;
@@ -79,6 +100,20 @@ span.my-image-text i.fas.fa-angle-left {
 
 }
 
+.input-group .btn2 {
+    padding: 8px 15px;
+    font-size: 14px;
+    color: white;
+    background: #5bc0de;
+    border: none;
+    border-radius: 2px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 20px;
+
+
+}
+
 .middle aside.right .input-note {
     margin: 10px;
 }
@@ -95,4 +130,74 @@ span.my-image-text i.fas.fa-angle-left {
     font-size: 16px;
     margin-top: 10px;
 
+}
+
+body {
+    font-family: Arial;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+form.example input[type=text] {
+    padding: 8px;
+    font-size: 16px;
+    border: 1.5px solid #f1f1f1;
+    float: left;
+    width: 80%;
+    background: white;
+
+}
+
+form.example button {
+    float: left;
+    width: 20%;
+    padding: 8px;
+    background: #ccc;
+    color: white;
+    font-size: 16px;
+    border: 1.5px solid #ccc;
+    border-left: none;
+    cursor: pointer;
+}
+
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.form-allnote {
+    margin-top: 30px;
+
+
+}
+
+.form-search {
+    margin: 30px;
+}
+
+.form-create .w3-button.w3-round-large {
+    margin-top: 10px;
+    font-size: 14px;
+    color: white;
+    background: #5bc0de;
+    margin-left: 8px;
+
+
+}
+
+.form-create .bi.bi-plus-circle {
+    margin-left: 8px;
+    font-size: 14px;
+
+
+
+}
+
+.w3-ul .my-link {
+    font-size: 14px;
+    color: #555;
 }

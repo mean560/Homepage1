@@ -24,11 +24,11 @@
 
 
 <body>
-
+    <?php require_once 'config.php' ?>
 
     <div class="middle">
         <aside class="left">
-            <!-- <embed src="EJ1217886.pdf" type="application/pdf" width="100%" height="800px" /> -->
+
             <div class="middle_right" align="left">
                 <div class="col-xs-12 well">
                     <form method="post" enctype="multipart/form-data">
@@ -79,7 +79,7 @@
                 <font style="position:relative;">Note</font>
             </div>
             <div class="backpage">
-                <a href="#" class="my-link">
+                <a href="allnote.php" class="my-link">
                     <span class="my-image-text">
                         <i class="fas fa-angle-left" style="font-size:14px;"></i>
                         <font style="font-size:16px;">Back to all pages</font>
@@ -87,13 +87,26 @@
                 </a>
             </div>
             <div class="input-note">
-                <input class="w3-input" type="text" id="postTitle" placeholder="Title your page..."><br>
-                <textarea class="form-control" id="postContent" rows="15" placeholder="Start typing..."></textarea><br>
-                <input type='hidden' id='postid' value='0'>
+                <form action="config.php" method="POST">
+
+                    <input class="w3-input" type="text" id="postTitle" value="<?php echo $title; ?>" placeholder="Title your page..."><br>
+
+                    <textarea class="form-control" id="postContent" rows="16">
+                        <?php echo $content; ?>
+                    </textarea><br>
+                    <input type='hidden' id='postid' value="<?php echo $id; ?>">
+                </form>
             </div>
             <div class="input-group">
-                <input type='button' id='submit2' value='Save' class="btn">
+                <?php
+                if ($update == true) :
+                ?>
+                    <input type='button' id='submit3' value='Update' class="btn2">
+                <?php else : ?>
+                    <input type='button' id='submit2' value='Save' class="btn">
+                <?php endif; ?>
             </div>
+
         </aside>
     </div>
 

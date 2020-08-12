@@ -73,7 +73,7 @@
       </form>
     </aside>
     <div class="content">
-      <?php include('curl.php'); ?>
+
     </div>
     <aside class="right">
     </aside>
