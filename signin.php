@@ -1,6 +1,6 @@
 <?php
-    session_start();
-    include('server.php'); 
+session_start();
+include('server.php');
 
 ?>
 
@@ -35,7 +35,6 @@
 
                 <div class="input-group">
                     <label for="username">Username</label>
-                    <!-- <input type="text" name="username"> -->
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1"><i class="fas fa-user"></i></span>
@@ -46,7 +45,6 @@
 
                 <div class="input-group">
                     <label for="password">Password</label>
-                    <!-- <input type="password" name="password"> -->
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1"><i class="fas fa-lock"></i></span>

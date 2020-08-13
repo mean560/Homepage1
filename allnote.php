@@ -94,26 +94,22 @@
                         </svg></i></button>
                 </a>
             </div>
-            <div class="form-allnote">
 
+            <div class="form-allnote">
                 <?php
                 include 'config.php';
-
                 $q = "SELECT * FROM posts";
                 $query = mysqli_query($con, $q);
 
                 while ($res = mysqli_fetch_array($query)) {
                 ?>
                     <ul class="w3-ul" style="width:80%">
-
                         <li><?php echo $res['title']; ?><br>
                             <a href="note.php?edit=<?php echo $res['id']; ?>" class="btn btn-info">Edit</a>
                             <a href="allnote.php?delete=<?php echo $res['id']; ?>" class="btn btn-danger">Delete</a>
                         </li>
                         <li></li>
-
                     </ul>
-
                 <?php
                 }
                 ?>
